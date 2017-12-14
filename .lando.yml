@@ -1,0 +1,4 @@
+name: dbs
+recipe: drupal7
+config:
+  webroot: .
